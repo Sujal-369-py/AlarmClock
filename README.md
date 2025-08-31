@@ -20,6 +20,11 @@ A fully-featured terminal-based watch app in Python! Keep track of time, date, s
 
 ## 🚀 Usage
 
-Run the program:
-```bash
-python main.py
+### 🟢 Just run the program:
+
+# ===========================
+#     python main.py
+# ===========================
+
+Then follow the on-screen menu to use **Current Time, Date, Stopwatch, Timer, or Alarm**!
+
