@@ -1,4 +1,4 @@
-"""
+
 # ⌚ Terminal Watch
 
 A fully-featured terminal-based watch app in Python! Keep track of time, date, stopwatches, timers, and alarms — all from your terminal.
