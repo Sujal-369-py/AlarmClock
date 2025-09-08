@@ -1,4 +1,4 @@
-import playsound
+from playsound import playsound
 import time 
 
 def timer_working():
@@ -38,6 +38,6 @@ def timer_working():
 
     print("Timer had Ended.")
 
-    playsound.playsound(r"d:\Fun project\Timer\t.mp3")
+    playsound("t.mp3")
 
 # timer_working()
