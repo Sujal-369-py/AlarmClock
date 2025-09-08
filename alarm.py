@@ -1,5 +1,5 @@
 import time 
-import playsound
+from playsound import playsound
 
 
 def alarm_main():
@@ -75,4 +75,4 @@ def alarm_main():
         
     # Play the alarm sound 3 times
     for i in range(3): 
-        playsound.playsound(r"d:\Fun project\Timer\homelender.mp3")
+        playsound("homelender.mp3")
